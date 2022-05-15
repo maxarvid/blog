@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: about
 title: About
 permalink: /about/
+image: /assets/images/max.png
 ---
 
 I'm a coach at [Craft Academy](https://craftacademy.se/).
