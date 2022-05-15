@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8326457-f61d-431d-979c-6ac5e56c5546/deploy-status)](https://app.netlify.com/sites/magnificent-crostata-a007b9/deploys)
